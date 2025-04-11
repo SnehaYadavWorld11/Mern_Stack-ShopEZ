@@ -63,6 +63,50 @@ The project is organized into two main folders:
      - **Email**: admin@gmail.com
      - **Password**: admin
 
+![Screenshot 2025-04-11 144043](https://github.com/user-attachments/assets/9d1689e7-1457-4a11-b247-4472dde8741f)
+
+2. **Order Management**:
+   - View the total number of orders and their details, including the number of orders placed by each user.
+
+![Screenshot 2025-04-11 144144](https://github.com/user-attachments/assets/6983805c-c3d8-43f1-a247-2431491adc39)
+
+![Screenshot 2025-04-11 144245](https://github.com/user-attachments/assets/ae4b46a4-5309-4484-8934-3086603c26f6)
+
+
+3. **Product Management**:
+   - Add, update, or remove products.
+   - Add products with categories, images, brands, etc.
+
+![Screenshot 2025-04-11 144110](https://github.com/user-attachments/assets/70d43c2d-fb2d-4fba-9d36-4bc96edfde1f)
+
+![image](https://github.com/user-attachments/assets/4b4df83d-5ff2-471f-869a-8019e9455a2e)
+
+4. **Order Management**:
+   - View all placed orders, update their status (e.g., Order Placed, In Transit, Delivered), and cancel orders if necessary.
+
+![Screenshot 2025-04-11 144245](https://github.com/user-attachments/assets/b6387410-bd27-4c96-aeeb-8b28f5c170fc)![image](https://github.com/user-attachments/assets/e0a86630-c973-4c9f-8116-bbd0b5a69668)
+
+## Tech Stack
+- **Frontend**: React, CSS, Redux Toolkit
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+
+## Demo Video
+- Watch a quick demo showcasing the installation process, as well as the features and functionalities of the ShopEZ Ecommerce Application. The demo will cover both user and admin functionalities.
+
+https://drive.google.com/file/d/1sf0OhwgIi3d6qpX8PHjiiuWHaaonJbmT/view?usp=sharing
+
+
+
+
+
+
+  
+
+
+   
+
+
 
 
 
