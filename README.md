@@ -39,5 +39,6 @@ The project is organized into two main folders:
 3. **Shopping Cart**:
    - Add products to the cart and proceed to checkout.
 
-![prod add cart](![image](https://github.com/user-attachments/assets/3ee46a8d-7958-4226-ad55-5545db057555))
-![prod add cart](![image](Screenshot 2025-04-11 143517](https://github.com/user-attachments/assets/52a8fde7-6e5f-4372-b081-a82e473b9408))
+!(![image](https://github.com/user-attachments/assets/3ee46a8d-7958-4226-ad55-5545db057555))
+!(![image](![Screenshot 2025-04-11 164804](https://github.com/user-attachments/assets/d763b8c0-f35b-40be-94e4-448dfa12988a)
+))
