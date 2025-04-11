@@ -27,7 +27,7 @@ The project is organized into two main folders:
      
 !(![Screenshot 2025-04-11 142955](https://github.com/user-attachments/assets/508ad3a0-6334-4e09-b2ba-b9338c30fd56))
     - After Registration registration successfully message is pop out 
-!(![![Screenshot 2025-04-11 143135](https://github.com/user-attachments/assets/adc9955b-619b-49eb-9b80-c19a0f006f3d)))
+!([![Screenshot 2025-04-11 143135](https://github.com/user-attachments/assets/adc9955b-619b-49eb-9b80-c19a0f006f3d))
 
 !(![Screenshot 2025-04-11 142834](https://github.com/user-attachments/assets/2e4bfcdd-1343-45bc-9270-4f91321ec0e4))
 
@@ -39,7 +39,5 @@ The project is organized into two main folders:
 3. **Shopping Cart**:
    - Add products to the cart and proceed to checkout.
 
-!(https://github.com/user-attachments/assets/3ee46a8d-7958-4226-ad55-5545db057555))
-!(![Screenshot 2025-04-11 143517](https://github.com/user-attachments/assets/4b624a48-e0bc-48ed-a0b7-df4c81ab9821)
-)
-))
+!(![Screenshot 2025-04-11 164804](https://github.com/user-attachments/assets/85609028-bc6c-44ac-bcb2-465151a9ba5c))
+!(![Screenshot 2025-04-11 143517](https://github.com/user-attachments/assets/4b624a48-e0bc-48ed-a0b7-df4c81ab9821))
