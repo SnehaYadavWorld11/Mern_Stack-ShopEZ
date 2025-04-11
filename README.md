@@ -25,20 +25,21 @@ The project is organized into two main folders:
 1. **User Registration and Login**:
    - Register as a new user or log in with existing credentials.
      
-![user reg](![Screenshot 2025-04-11 142955](https://github.com/user-attachments/assets/508ad3a0-6334-4e09-b2ba-b9338c30fd56))
+!(![Screenshot 2025-04-11 142955](https://github.com/user-attachments/assets/508ad3a0-6334-4e09-b2ba-b9338c30fd56))
     - After Registration registration successfully message is pop out 
-![user reg](![![Screenshot 2025-04-11 143135](https://github.com/user-attachments/assets/adc9955b-619b-49eb-9b80-c19a0f006f3d)))
+!(![![Screenshot 2025-04-11 143135](https://github.com/user-attachments/assets/adc9955b-619b-49eb-9b80-c19a0f006f3d)))
 
-![user login](![Screenshot 2025-04-11 142834](https://github.com/user-attachments/assets/2e4bfcdd-1343-45bc-9270-4f91321ec0e4))
+!(![Screenshot 2025-04-11 142834](https://github.com/user-attachments/assets/2e4bfcdd-1343-45bc-9270-4f91321ec0e4))
 
 2. **Product Browsing and Filtering**:
    - Filter products by categories, gender, popularity, price (low to high or high to low).
      
-![prod filter](![Screenshot 2025-04-11 143402](https://github.com/user-attachments/assets/67dbaee7-13a6-48ee-ba5a-59ea050d6cd2))
+!(![Screenshot 2025-04-11 143402](https://github.com/user-attachments/assets/67dbaee7-13a6-48ee-ba5a-59ea050d6cd2))
 
 3. **Shopping Cart**:
    - Add products to the cart and proceed to checkout.
 
-!(![image](https://github.com/user-attachments/assets/3ee46a8d-7958-4226-ad55-5545db057555))
-!(![image](![Screenshot 2025-04-11 164804](https://github.com/user-attachments/assets/d763b8c0-f35b-40be-94e4-448dfa12988a)
+!(https://github.com/user-attachments/assets/3ee46a8d-7958-4226-ad55-5545db057555))
+!(![Screenshot 2025-04-11 143517](https://github.com/user-attachments/assets/4b624a48-e0bc-48ed-a0b7-df4c81ab9821)
+)
 ))
