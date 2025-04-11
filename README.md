@@ -21,6 +21,51 @@ The project is organized into two main folders:
 - **client/** - Contains the front-end React code for the application.
 - **server/** - Contains the back-end Node.js and Express code.
 
+## Installation
+
+### 1. Clone the Repository
+``` bash
+git clone https://github.com/SnehaYadavWorld11/Mern_Stack-ShopEZ.git
+cd Mern_Stack-ShopE
+```
+
+### 2. Install Dependencies
+IGNORE THE ERRORS WHILE INSTALLING, CONTINUE TO RUN THE APPLICATION
+#### Server
+``` bash
+cd server
+npm install
+```
+
+#### Client
+``` bash
+cd client
+npm install
+```
+
+## Environment Variables
+
+Add your own configuration in `server.js` in the root of the **server** folder. 
+```
+mongoose.connect(mongodb+srv://username:password@url/ShopEZ?retryWrites=true&w=majority&appName=Cluster)
+```
+
+## Usage
+IF YOU STILL ENCOUNTER ANY ERRORS WHILE RUNNING THE SERVER OR CLIENT, REMOVE THE NODE_MODULES FOLDER AND RUN `npm install`. NOW TRY AGAIN, IT WILL WORK
+### Running the Server
+The server runs on port 5000.
+``` bash
+cd server
+node index.js || npm run dev
+```
+
+### Running the Client
+The client will start on port 3000 by default.
+``` bash
+cd client
+npm run dev
+```
+
 ## Features
 
 ### User Features
