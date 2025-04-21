@@ -136,6 +136,9 @@ npm run dev
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 
+## Project Report
+https://drive.google.com/drive/folders/14kvTuDGft9AUMGe1DLKJdONmnJO80D-q?usp=sharing
+
 ## Demo Video
 - Watch a quick demo showcasing the installation process, as well as the features and functionalities of the ShopEZ Ecommerce Application. The demo will cover both user and admin functionalities.
 
